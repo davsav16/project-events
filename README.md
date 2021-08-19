@@ -17,7 +17,7 @@
 - [**Credits**](#credits)
 - [**License**](#license)
 - [**Contribute**](#contribute)
-- [**Test**](#test)
+- [**Tools**](#tools)
 - [**Questions**](#questions)
 - [**Screenshots**](#screenshots)
 
@@ -43,9 +43,16 @@
 
 #### _NONE_
 
-## Test
+## Tools
 
-#### _NONE_
+- MongoDB
+- Express
+- React
+- Node
+- CSS
+- Stripe
+- DonorBox
+- EmailJs
 
 ## Questions
 
